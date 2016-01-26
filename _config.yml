@@ -1,0 +1,28 @@
+name: op
+favicon: null
+layout_spectrum: 0.5067736955825239
+typography_spectrum: 0.19917938369326293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6290560364723206
+  lightness: 0.5688622989691794
+  saturation: 0.7286200893577188
+  rhythmicContrast: 0.9975712175946683
+purpose: []
